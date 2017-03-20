@@ -11,12 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "dom2hscript": "^0.2.3",
-    "html2hscript": "^2.0.1",
-    "hyperscript": "^2.0.2",
     "koa": "^2.2.0",
     "koa-router": "^5.4.0",
     "koa-static": "^3.0.0",
-    "snabbdom": "^0.6.7",
-    "snabby": "^0.2.0"
+    "snabbdom": "^0.6.7"
   }
 }
