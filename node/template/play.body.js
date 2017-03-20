@@ -2,6 +2,6 @@
 
 module.exports = function () {
     return `<div id="main">
-        <a href="javascript:" id="indexbtn">首页</a>
+        <a href="javascript:" id="indexbtn" class="btn">跳至首页</a>
 	</div>`
 };
